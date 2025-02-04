@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>equipo.png</file>
+    <file>FIT_logo_vertical.png</file>
+    <file>log_uat_nuevo.png</file>
+    <file>Jungkook.jpg</file>
+    <file>Finalizada.jpg</file>
+  </qresource>
+  <qresource prefix="Ejercicios">
+    <file>Urgente.png</file>
+  </qresource>
+</RCC>
